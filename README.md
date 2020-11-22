@@ -1,5 +1,5 @@
 # WebShotToGDrive
-========installing requirement==========
+========installing requirement==========\r
 -install NodeJs
 -open a CMD window navigate to the project folder and run the "npm i" command
 ========Running Project==========
